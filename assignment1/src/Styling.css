@@ -1,0 +1,30 @@
+.header{
+  background-color: blue;
+  color:white;
+  width: 80%;
+  margin-left: 10%;
+  padding:20px;
+
+}
+
+.section1{
+  background-color: lightgray;
+  width: 70%;
+  margin-left: 13%
+}
+
+.divider{
+background-color: orange;
+color:white;
+}
+
+.bluetitle{
+  color:blue;
+
+}
+
+.section2{
+  width:70%;
+  padding: 30px;
+  margin-left: 13%;
+}
